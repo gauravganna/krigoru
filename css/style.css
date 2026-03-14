@@ -534,6 +534,10 @@ section {
     order: -1;
   }
 
+  .story__visual {
+    display: none;
+  }
+
   .story__visual img {
     max-width: 220px;
   }
